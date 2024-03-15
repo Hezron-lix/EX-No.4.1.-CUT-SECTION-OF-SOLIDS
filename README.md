@@ -42,6 +42,8 @@ To create the solid model from given drawing and section the solid model
 
 ## OUTPUT:
 
+![image](https://github.com/Hezron-lix/EX-No.4.1.-CUT-SECTION-OF-SOLIDS/assets/139331337/64464f6a-398a-4477-9dba-5a41fe762567)
+
 ## RESULT:
 
 Thus, the cut section for solid model is created.
